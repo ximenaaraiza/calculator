@@ -1,0 +1,61 @@
+.case{
+    border:solid grey 2px;
+    width:32vh;
+    height:40vh;
+    background-color: rgb(255, 230, 250);
+    box-shadow: 5px 2px 4px purple;
+    border-color: rgb(255, 230, 250);
+}
+.display{
+    width:29vh;
+    height:4vh;
+    border-radius: 10;
+    margin:1vh 0vh 1vh 1.6vh;
+    font-size: 3vh;
+    background-color: rgb(255, 243, 253);
+    border: hotpink solid 1px;
+    color:hotpink;
+    box-shadow: 5px 2px 4px purple;
+    text-align: right;
+}
+
+button{
+    height:6vh;
+    width:6vh;
+    margin:.5vh;
+    background-color: rgb(255, 246, 253);
+    color:hotpink;
+    font-weight: bold;
+    font-size: 1.5vh;
+    border-color: rgb(255, 92, 233);
+    box-shadow: 5px 2px 4px purple;
+}
+
+.row{
+    margin:0vh 0vh 0vh 1.5vh; 
+}
+
+.clear{
+    margin: .6vh 0vh 0vh 4.9vh;
+    width:23vh;
+    height:4vh
+}
+
+.body{
+    display: flex;
+    justify-content: center;
+    padding:10vh 0vh 0vh 0vh;
+    background-color: rgb(233, 237, 255);
+    height:97%
+}
+body{
+    background-color: rgb(233, 237, 255);
+}
+
+h2{
+    text-align: center;
+    margin:10vh 0vh 0vh 0vh; 
+    color:hotpink;
+    font-size:10vh
+}
+
